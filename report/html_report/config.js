@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_1024px.png",
-        "test": "../bitmaps_test/20220914-000239/Entire_document_1024px.png",
+        "test": "../bitmaps_test/20220916-200617/Entire_document_1024px.png",
         "selector": "document",
         "fileName": "Entire_document_1024px.png",
         "label": "Entire document",
@@ -21,7 +21,7 @@ report({
             "height": -12
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 30
+          "analysisTime": 24
         }
       },
       "status": "pass"
@@ -29,7 +29,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_720px.png",
-        "test": "../bitmaps_test/20220914-000239/Entire_document_720px.png",
+        "test": "../bitmaps_test/20220916-200617/Entire_document_720px.png",
         "selector": "document",
         "fileName": "Entire_document_720px.png",
         "label": "Entire document",
@@ -46,7 +46,7 @@ report({
             "height": -12
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 42
+          "analysisTime": 21
         }
       },
       "status": "pass"
@@ -54,7 +54,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Big_search_bar_data-qa_big_1024px.png",
-        "test": "../bitmaps_test/20220914-000239/Big_search_bar_data-qa_big_1024px.png",
+        "test": "../bitmaps_test/20220916-200617/Big_search_bar_data-qa_big_1024px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_1024px.png",
         "label": "Big search bar data-qa_big",
@@ -70,8 +70,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 163
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -79,7 +78,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Big_search_bar_data-qa_big_720px.png",
-        "test": "../bitmaps_test/20220914-000239/Big_search_bar_data-qa_big_720px.png",
+        "test": "../bitmaps_test/20220916-200617/Big_search_bar_data-qa_big_720px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_720px.png",
         "label": "Big search bar data-qa_big",
@@ -95,8 +94,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 92
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -104,7 +102,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Small_search_bar_data-qa_small_1024px.png",
-        "test": "../bitmaps_test/20220914-000239/Small_search_bar_data-qa_small_1024px.png",
+        "test": "../bitmaps_test/20220916-200617/Small_search_bar_data-qa_small_1024px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_1024px.png",
         "label": "Small search bar data-qa_small",
@@ -120,8 +118,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 128
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -129,7 +126,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Small_search_bar_data-qa_small_720px.png",
-        "test": "../bitmaps_test/20220914-000239/Small_search_bar_data-qa_small_720px.png",
+        "test": "../bitmaps_test/20220916-200617/Small_search_bar_data-qa_small_720px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_720px.png",
         "label": "Small search bar data-qa_small",
@@ -145,8 +142,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 21
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
